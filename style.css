@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(rgb(135, 189, 250),white,rgb(135, 189, 250),white,rgb(135, 189, 250));
+    font-family: 'Instrument Serif', serif;
+}
+.div_header{
+    font-size: 30px;
+}
+.div_footer{
+    color:darkblue;
+    font-size: 40px;
+}
+.div_main{
+    font-size: 20px;
+}
+#start{
+    font-size: 150%;
+}
+#hear{
+    border: lightgreen solid 5px;
+}
